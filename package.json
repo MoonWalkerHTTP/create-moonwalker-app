@@ -1,6 +1,6 @@
 {
   "name": "create-moonwalker-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI for creating a MoonWalker App",
   "main": "command.js",
   "preferGlobal": true,
