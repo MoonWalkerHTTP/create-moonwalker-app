@@ -1,0 +1,32 @@
+{
+  "name": "create-moonwalker-app",
+  "version": "1.0.0",
+  "description": "A CLI for creating a MoonWalker App",
+  "main": "command.js",
+  "preferGlobal": true,
+  "bin": "./command.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoonWalkerHTTP/create-moonwalker-app.git"
+  },
+  "keywords": [
+    "MoonWalker"
+  ],
+  "author": "Samyak Bambole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoonWalkerHTTP/create-moonwalker-app/issues"
+  },
+  "homepage": "https://github.com/MoonWalkerHTTP/create-moonwalker-app#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^8.0.0",
+    "consola": "^2.15.3",
+    "fs": "0.0.1-security",
+    "nodegit": "^0.27.0",
+    "touch": "^3.1.0"
+  }
+}
