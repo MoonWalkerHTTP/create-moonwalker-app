@@ -4,16 +4,18 @@ A CLI for creating a MoonWalker App.
 
 ## Usage
 
-```
-$ npx create-moonwalker-app create <directory-name>
-```
-
-OR
-
+### MoonWalker Static Sites
 ```
 $ npm i -g create-moonwalker-app 
 
 $ create-moonwalker-app create <directory-name>
+```
+
+### MoonWalker JSON API Creation Tool
+```
+$ npm i -g create-moonwalker-app
+
+$ create-moonwalker-app create-api <directory-name>
 ```
 
 ## License
